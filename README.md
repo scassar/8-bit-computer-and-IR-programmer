@@ -13,7 +13,7 @@ Overall, this was a long and fascinating project that is excellent for people wh
 As Ben's initial solution has programs loaded into memory by dip switches, I decided to improve this by adding an Arduino Nano alongside an IR reciever (details and images below) - to allow programs to be loaded remotely. Some of the functions of the IR programmer are: 
 
 - Take control of the 8 bit CPU bus, and perform a number of operations to set up the computers programs
-- Load sample programs (such as a program that counts up by 1 forever) by the simple press of 1 button
+- Load sample programs (such as a program that counts up by 1 indefinitely) by the simple press of a button
 - Manually load a program using a "set" control button, followed by the sequences of binary 1's and 0's to set the command.
 - Manually select a memory address to store the above set command
 - Give back control of the bus for program execution
