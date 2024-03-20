@@ -1,11 +1,10 @@
 # 8 Bit Breadboard CPU & IR Programmer
 
-## Welcome 
+## Background 
 
-Small write up of my 8 bit breadboard CPU which was based on the project done by Ben Eater. This was a long and fascinating project that is excellent for people who are curious about low level electronics, a skill that seems to be all but lost in modern times!
+My 8 bit breadboard CPU which is based on the project done by Ben Eater. I built this project a few years ago, and decided it was time to do a short write up of my build, along with the custom IR programmer code that I wrote to extend the ease-of-use of this CPU. Overall, this was a long and fascinating project that is excellent for people who are curious about low level electronics, a skill that seems to be all but lost in modern times!
 
 ![IMG_0307_final](https://github.com/scassar/8-bit-computer-and-IR-programmer/assets/2356898/472b002d-fa68-478e-a859-dd355f245c4f)
-
 
 As Ben's initial solution has programs loaded into memory by dip switches, I decided to improve this by adding an Arduino Nano alongside an IR reciever (details and images below) - to allow programs to be loaded remotely. Some of the functions of the IR programmer are: 
 
