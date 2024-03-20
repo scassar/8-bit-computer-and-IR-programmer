@@ -18,7 +18,7 @@ As Ben's initial solution has programs loaded into memory by dip switches, I dec
 - Manually select a memory address to store the above set command
 - Give back control of the bus for program execution
 
-For years I had always wanted to build my own CPU. You can only imagine my excitement when I found out that someone on the internet provided an intuitive and great starting point. It was also nice that Ben packaged up many of the components, to avoid needing to source these myself. Its a little more difficult I found to source some components here in Australia.
+For years I had always wanted to build my own CPU. You can only imagine my excitement when I found out that someone on the internet provided an intuitive and great starting guide. It was also nice that Ben packaged up many of the components with his kits, to avoid needing to source these myself. Its a little more difficult I found to source some components here in Australia.
 
 ## IR Reciever 
 
@@ -54,6 +54,8 @@ Most of these enhacements are just around allowing the computer to be interacted
 
 ## Links: 
 eater.net/8bit - Ben Eater's homepage
+https://www.reddit.com/r/beneater/
+
 
 
 
