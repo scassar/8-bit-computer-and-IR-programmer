@@ -1,4 +1,4 @@
-# 8-bit-computer-and-IR-programmer
+# 8 Bit Breadboard CPU & IR Programmer
 
 ## Welcome 
 
