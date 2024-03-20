@@ -2,7 +2,7 @@
 
 ## Welcome 
 
-Below is the write up of my 8 bit breadboard CPU which was based on the project uploaded on youtube by Ben Eater. This was a long and fascinating project that is excellent for people who are curious about low level electronics, a skill that seems to be all but lost in modern times. 
+Small write up of my 8 bit breadboard CPU which was based on the project uploaded on youtube by Ben Eater. This was a long and fascinating project that is excellent for people who are curious about low level electronics, a skill that seems to be all but lost in modern times. 
 
 ![IMG_0314](https://github.com/scassar/8-bit-computer-and-IR-programmer/assets/2356898/ff4260ec-d3e8-42c9-a203-a1e9d34f084c)
 
