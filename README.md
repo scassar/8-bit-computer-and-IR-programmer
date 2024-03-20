@@ -31,9 +31,9 @@ Below is some images of the IR reciever setup on the board, and the controller. 
 
 ## Challenges
 
-Unfortunately (and fortunately) Ben Eaters build came not without its issues. There were a number of aspects that seemed to work within Bens videos that I found myself debugging for hours and needed to be addressed. Some of these include: 
+Unfortunately (and fortunately) Ben's build came not without its issues. There were a number of aspects that seemed to work within Ben's videos that I found myself debugging for hours and needed to be addressed. Some of these include: 
 
-1) Consistent power distrubiton across the boards
+1) Consistent power distrubiton across the boards. Had to solve this with numerous capacitors and more stable power adapter. Spliced into a USB cable and used an trusty Apple phone brick.
 2) Monostable clock bouncing (Solution discussed here. https://www.reddit.com/r/beneater/comments/edp1ls/noise_issue_in_monostable_mode_of_ben_eaters/)
 3) Faulty 74LS00 Quad NAND GATE (Nothing is worse than failing IC's)
 4) Many others!
