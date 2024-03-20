@@ -36,6 +36,7 @@ Unfortunately (and fortunately) Ben Eaters build came not without its issues. Th
 1) Consistent power distrubiton across the boards
 2) Monostable clock bouncing (Solution discussed here. https://www.reddit.com/r/beneater/comments/edp1ls/noise_issue_in_monostable_mode_of_ben_eaters/)
 3) Faulty 74LS00 Quad NAND GATE (Nothing is worse than failing IC's)
+4) Many others!
 
 ## Future plans for the build
 
