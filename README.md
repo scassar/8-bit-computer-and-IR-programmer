@@ -10,19 +10,21 @@ Overall, this was a long and fascinating project that is excellent for people wh
 
 ![IMG_0307_final](https://github.com/scassar/8-bit-computer-and-IR-programmer/assets/2356898/472b002d-fa68-478e-a859-dd355f245c4f)
 
-As Ben's initial solution has programs loaded into memory by dip switches, I decided to improve this by adding an Arduino Nano alongside an IR reciever (details and images below) - to allow programs to be loaded remotely. Some of the functions of the IR programmer are: 
+As Ben's initial solution has programs loaded into memory via dip switches, I decided to improve this by adding an Arduino Nano alongside an IR reciever (details and images below) - to allow programs to be loaded remotely. Some of the functions of the IR programmer are: 
 
 - Take control of the 8 bit CPU bus, and perform a number of operations to set up the computers programs
-- Load sample programs (such as a program that counts up by 1 indefinitely) by the simple press of a button
-- Manually load a program using a "set" control button, followed by the sequences of binary 1's and 0's to set the command.
+- Load pre-defined sample programs (such as a program that counts up by 1 indefinitely) by the simple press of a button
+- Manually load a program using a "set" control button, followed by the sequences of binary 1's and 0's to set the command
 - Manually select a memory address to store the above set command
 - Give back control of the bus for program execution
 
-For years I had always wanted to build my own CPU. You can only imagine my excitement when I found out that someone on the internet provided an intuitive and great starting guide. It was also nice that Ben packaged up many of the components with his kits, to avoid needing to source these myself. Its a little more difficult I found to source some components here in Australia.
+For years, I had always wanted to build my own CPU. You can only imagine my excitement when I found out that someone on the internet provided an intuitive and great starting point. It was also nice that Ben packaged up many of the components with his kits, to avoid needing to source these myself. Its a little more difficult I found to source some components here in Australia.
 
 ## IR Reciever 
 
 Below is some images of the IR reciever setup on the board, and the controller. The parts list that I used can also be noted below:
+
+The IR reciever is connected to the 8 bit bus, along with the clock pin distrubted across the board. Its also required to connect the Arduino to the memory in control signal.
 
 ### Parts
 - https://core-electronics.com.au/nano-v3-0-board.html?gad_source=1&gclid=CjwKCAjwkuqvBhAQEiwA65XxQJpYXAXOwPKtn18qe0lsqy8vpYezDvSV7x51v7jYjVpsFrxEQm39GxoCtZUQAvD_BwE
