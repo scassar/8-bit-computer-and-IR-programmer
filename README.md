@@ -47,8 +47,8 @@ Unfortunately (and fortunately) Ben's build came not without its issues. There w
 While I have now moved onto other projects, some of the things I would still like to do include the following: 
 
 1) Drill a power connector into the side of the display case, to deliver power to the board whilst on display
-2) Use Arduino to kick switch between monostable and astable clock. Ideally, monostable pulse can be initiated using the arduino IR controller.
-3) Ability to reset the computer remotely.
+2) Use Arduino to kick switch between monostable and astable clock. Ideally, monostable pulse can be initiated using the arduino IR controller
+3) Ability to reset the computer remotely
 
 Most of these enhacements are just around allowing the computer to be interacted with remotely in its display box, and will not control any of the actual CPU functionality.
 
