@@ -4,6 +4,8 @@
 
 Below is the write up of my 8 bit breadboard CPU which was based on the project uploaded on youtube by Ben Eater. This was a long and fascinating project that is excellent for people who are curious about low level electronics, a skill that seems to be all but lost in modern times. 
 
+![IMG_0307](https://github.com/scassar/8-bit-computer-and-IR-programmer/assets/2356898/cf9b2bd1-cd17-47ae-8e36-0088d77bfef9)
+
 As Ben's initial solution has programs loaded into memory by dip switches, I decided to improve this by adding an Arduino Nano alongside an IR reciever (details and images below) - to allow programs to be loaded remotely. Some of the functions of the IR programmer are: 
 
 - Take control of the 8 bit CPU bus, and perform a number of operations to set up the computers programs
@@ -22,6 +24,10 @@ Below is some images of the IR reciever setup on the board, and the controller. 
 - https://core-electronics.com.au/nano-v3-0-board.html?gad_source=1&gclid=CjwKCAjwkuqvBhAQEiwA65XxQJpYXAXOwPKtn18qe0lsqy8vpYezDvSV7x51v7jYjVpsFrxEQm39GxoCtZUQAvD_BwE
 - https://www.jaycar.com.au/duinotech-arduino-compatible-infrared-receiver-module/p/XC4427
 - https://www.jaycar.com.au/ir-remote-control-for-arduino/p/XC3718
+
+![IMG_0306](https://github.com/scassar/8-bit-computer-and-IR-programmer/assets/2356898/01ce9b51-98b1-435b-93e5-3f2553715e89)
+![IMG_0310(1)](https://github.com/scassar/8-bit-computer-and-IR-programmer/assets/2356898/a3868ed0-3cfa-432f-9d02-99b176bf259e)
+
 
 ## Challenges
 
