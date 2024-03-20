@@ -4,7 +4,7 @@
 
 My 8 bit breadboard CPU which is based on the project done by Ben Eater. 
 
-I built this project a few years ago, and decided it was time to do a short write up of my build, along with the custom IR (Infrared) programmer code that I wrote to extend the ease-of-use for this CPU. 
+I built this project a year or two ago, and decided it was time to do a short upload up of my build, along with the custom infrared (IR) programmer code that I wrote to extend the ease-of-use for this CPU. 
 
 Overall, this was a long and fascinating project that is excellent for people who are curious about low level electronics, a skill that seems to be all but lost in modern times!
 
